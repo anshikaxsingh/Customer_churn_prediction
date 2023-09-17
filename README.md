@@ -1,5 +1,5 @@
 # Customer_churn_prediction
-The customer churn prediction dataset you provided contains a number of insights that can be used to develop strategies to retain customers.
+The customer churn prediction dataset contains a number of insights that can be used to develop strategies to retain customers.
 
 The customer churn prediction dataset can also be used to identify specific customer segments that are at risk of churning. For example, businesses could use the dataset to identify customers who have been subscribed for a short period of time, have a high monthly bill, and are using the service less than usual. 
 
